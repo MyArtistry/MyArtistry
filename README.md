@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Katherine Freire
+**Engenheira de Dados**
 
-**`Desenvolvedora Cloud FullStack`**
+**Desenvolvedora Cloud FullStack`**
 
 
 <p align="left">
