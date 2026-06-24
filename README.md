@@ -2,7 +2,7 @@
 **Engenheira de Dados**  
 Sou uma estudante de Ciência de Dados apaixonada por soluções que entregam insights valiosos para negócios.  
 
-**Desenvolvedora Cloud FullStack`**  
+**Desenvolvedora Cloud FullStack**  
 Construo soluções Cloud Native escaláveis com orquestração via Kubernetes e Docker, operando em ambientes Google Cloud Plataform (GCP) Amazon Web Services (AWS).  
 <p align="left">  
 
