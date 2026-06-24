@@ -31,6 +31,15 @@ Construo soluções Cloud Native escaláveis com orquestração via Kubernetes e
     title="Google Cloud"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" 
+img/>
+
+<img 
+    align="left" 
+    alt="Google Cloud" 
+    title="Google Cloud"
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" 
 img/>
 <img 
