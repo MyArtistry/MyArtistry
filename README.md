@@ -1,9 +1,9 @@
 # 👩🏻‍💻 Katherine Freire
 **Engenheira de Dados**  
-Sou uma estudante de Ciência de Dados e Análise de Sistemas apaixonada por soluções que entregam insights valiosos para negócios.  
+Sou uma estudante de Ciência de Dados apaixonada por soluções que entregam insights valiosos para negócios.  
 
 **Desenvolvedora Cloud FullStack**  
-Construo soluções Cloud Native escaláveis com orquestração via Kubernetes e Docker, operando em ambientes Google Cloud Plataform (GCP) e Amazon Web Services (AWS).  
+Construo soluções Cloud Native escaláveis com orquestração via Kubernetes e Docker, operando em ambientes Google Cloud Plataform (GCP) e Amazon Web Services (AWS) com que aprendo em Análise e Desenvolvimento de Sistemas.  
 <p align="left">  
 
 ### 🤖 Linguagens e Tecnologias
