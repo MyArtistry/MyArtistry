@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Katherine Freire
+# 👩🏻‍💻 Katherine Freire 
 **Engenheira de Dados**  
 Sou uma estudante de Ciência de Dados apaixonada por soluções que entregam insights valiosos para negócios.  
 
