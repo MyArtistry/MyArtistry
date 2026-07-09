@@ -1,3 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+
+<br>
+
 # 👩🏻‍💻 Katherine Freire 
 **Engenheira de Dados**  
 Sou uma estudante de Ciência de Dados apaixonada por soluções que entregam insights valiosos para negócios.  
