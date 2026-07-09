@@ -144,13 +144,5 @@ img/>
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=&color=F7BEC8FF&section=footer"/>
