@@ -4,7 +4,8 @@
 
 <div align="center">
   
-  <b> 👩🏻‍💻 Katherine Freire</b>
+  <b> <h1><strong>👩🏻‍💻 Katherine Freire</strong></h1>
+</b>
   <samp>
       <br>
     </b>
