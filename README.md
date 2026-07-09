@@ -1,18 +1,23 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=&color=F7BEC8FF&section=header"/>
 
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F625F7&center=true&width=435&lines=Hello+there!+My+name+is+Katherine" alt="Typing SVG"/>
+</div>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F625F7&center=true&multiline=true&width=435&lines=I'm+a+Data+and+Cloud+Enginner;from+Brazil" alt="Typing SVG"/>
+</div>
+
 <br>
 
 <div align="center">
   
-  <b> <h1><strong>👩🏻‍💻 Katherine Freire</strong></h1>
+  <b> <h2><strong>👩🏻‍💻 Katherine Freire</strong></h2>
 </b>
-  <samp>
-      <br>
-    </b>
-  </samp>
+    <br>
 </div>
 
-# 👩🏻‍💻 Katherine Freire 
 **Engenheira de Dados**  
 Sou uma estudante de Ciência de Dados apaixonada por soluções que entregam insights valiosos para negócios.  
 
