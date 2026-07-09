@@ -4,10 +4,10 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b> 👩🏻‍💻 Katherine Freire</b>
   <samp>
       <br>
-    👩🏻‍💻 Katherine Freire </b>
+    </b>
   </samp>
 </div>
 
