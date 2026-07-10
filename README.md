@@ -29,8 +29,7 @@ Acredito que a Inteligência Artificial é uma grande aliada na resolução de p
 Construo soluções Cloud Native escaláveis com orquestração via Kubernetes e Docker, operando em ambientes Google Cloud Plataform (GCP), Amazon Web Services (AWS) e Microsoft Azure com conceitos que aprendo em Análise e Desenvolvimento de Sistemas.
 </p>
 
-### 🤖 Linguagens e Tecnologias
-
+<b> <h2><strong>🤖 Linguagens e Tecnologias</strong></h2></b>
 
 <img 
     align="left" 
