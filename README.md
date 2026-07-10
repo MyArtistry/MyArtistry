@@ -20,6 +20,7 @@
 
 **Engenheira de Dados**  
 Sou uma estudante de Ciência de Dados apaixonada por soluções que entregam insights valiosos para negócios.  
+Acredito que a Inteligência Artificial é uma grande aliada na resolução de problemas com dados.
 
 **Desenvolvedora Cloud FullStack**  
 <p style="text-align: justify;">
