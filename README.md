@@ -22,8 +22,9 @@
 Sou uma estudante de Ciência de Dados apaixonada por soluções que entregam insights valiosos para negócios.  
 
 **Desenvolvedora Cloud FullStack**  
-Construo soluções Cloud Native escaláveis com orquestração via Kubernetes e Docker, operando em ambientes Google Cloud Plataform (GCP), Amazon Web Services (AWS) e Microsoft Azure com conceitos que aprendo em Análise e Desenvolvimento de Sistemas.
-<p align="left">  
+<p style="text-align: justify;">
+  Construo soluções Cloud Native escaláveis com orquestração via Kubernetes e Docker, operando em ambientes Google Cloud Plataform (GCP), Amazon Web Services (AWS) e Microsoft Azure com conceitos que aprendo em Análise e Desenvolvimento de Sistemas.
+</p>
 
 ### 🤖 Linguagens e Tecnologias
 
