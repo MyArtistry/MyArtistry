@@ -14,6 +14,8 @@
 <div align="center">
   
   <b> <h2><strong>👩🏻‍💻 Katherine Freire</strong></h2>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&color=&color=F7BEC8FF"/>
+
 </b>
     <br>
 </div>
