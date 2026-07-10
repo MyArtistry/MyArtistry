@@ -24,7 +24,7 @@
 Sou uma estudante de Ciência de Dados apaixonada por soluções que entregam insights valiosos para negócios.  
 Acredito que a Inteligência Artificial é uma grande aliada na resolução de problemas com dados.
 
-**Desenvolvedora Cloud Full Stack**  
+**Desenvolvedora Cloud Full-Stack**  
 <p style="text-align: justify;">
 Construo soluções Cloud Native escaláveis com orquestração via Kubernetes e Docker, operando em ambientes Google Cloud Plataform (GCP), Amazon Web Services (AWS) e Microsoft Azure com conceitos que aprendo em Análise e Desenvolvimento de Sistemas.
 </p>
